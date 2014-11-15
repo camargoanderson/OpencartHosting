@@ -22,6 +22,6 @@ define('DB_DRIVER', 'mysql');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
-define('DB_DATABASE', 'opencarthosting');
+define('DB_DATABASE', 'opencarthosting_frontpage');
 define('DB_PREFIX', 'oc_');
 ?>
